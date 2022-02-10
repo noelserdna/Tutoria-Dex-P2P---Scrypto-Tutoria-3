@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/radix/radixdlt-scrypto/dex_p2p/target/wasm32-unknown-unknown/release/build/typenum-5e54debf1d2e1b67/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/home/radix/radixdlt-scrypto/dex_p2p/target/wasm32-unknown-unknown/release/build/typenum-5e54debf1d2e1b67/out/op.rs
